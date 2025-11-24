@@ -1,4 +1,4 @@
-# MCP-MD Agent
+# MCP-MD
 
 一个基于 MCP (Model Context Protocol) 协议的简单 LLM Agent 项目，让 llm 可以写入本地 md 文件，支持 Ollama 本地模型或硅基流动接入，是一个学习项目，比较简单
 
@@ -57,4 +57,5 @@ pixi run start
 
 ## License
 MIT
+
 
