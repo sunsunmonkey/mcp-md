@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "markdown_processor": {
+            "type": "stdio",
+            "description": "Markdown 文件读写工具",
+            "isActive": true,
+            "command": "python",
+            "args": [
+                "mcp_servers/markdown_server.py"
+            ]
+        }
+    }
+}
